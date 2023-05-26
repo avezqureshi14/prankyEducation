@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09396389.css",
+    "main.js": "/static/js/main.8377cb63.js",
+    "static/media/clg.png": "/static/media/clg.e057232cc7a597d3c9c7.png",
+    "static/media/Abract01.png": "/static/media/Abract01.f5748cc773f698ab322c.png",
+    "index.html": "/index.html",
+    "main.09396389.css.map": "/static/css/main.09396389.css.map",
+    "main.8377cb63.js.map": "/static/js/main.8377cb63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09396389.css",
+    "static/js/main.8377cb63.js"
+  ]
+}
